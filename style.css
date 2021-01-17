@@ -1,0 +1,25 @@
+body
+{
+    background: #eee;
+    font-family: roboto;
+}
+h1
+{
+    text-align: center;
+    color: crimson;
+}
+nav ul
+{
+text-align: center;
+padding: 0%;
+margin: 30px auto;
+}
+nav li{
+    display: inline-block;
+    margin: 0 10px;
+}
+nav a
+{
+    color: #777;
+    text-decoration: cyan;
+}
